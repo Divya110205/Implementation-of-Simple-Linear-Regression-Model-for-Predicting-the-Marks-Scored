@@ -83,31 +83,31 @@ print('RMSE = ',rmse)
 
 ## Output:
 # df.head()
-![EX 02 (1)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/ce6743b6-cd9b-41d5-9660-10a62dc01362)
+![EX 02 (1)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/255a1aae-0913-4f0c-85fd-316e13ea7acd)
 
 # df.tail()
-![EX 02 (2)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/9d7f7fa0-ac2d-4770-897e-b3806d69c36d)
+![EX 02 (2)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/04704f85-db38-4e9b-899d-4e80f945fa2c)
 
 # Array values of X
-![EX 02 (3)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/fe5c5267-1351-474b-a6b9-fec743b68b64)
+![EX 02 (3)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/db613a50-f1e5-4a90-8bb8-e60720b3f423)
 
 # Array values of Y
-![EX 02 (4)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/80c5a4de-42a5-4feb-b37d-f8ae3670a36f)
+![EX 02 (4)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/c91c4b1c-5dbd-4166-93d0-3f5febdf5e42)
 
 # Values of Y prediction
-![EX 02 (5)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/ea0add51-f811-4dd8-b26d-007a6a5f4c24)
+![EX 02 (5)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/883bc75a-9c98-4315-8a44-8895f442beb1)
 
 # Array values of Y test
-![EX 02 (6)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/209b51e9-a503-4b0f-8e05-0e0ff12f1a41)
+![EX 02 (6)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/0ece98ac-e71d-4c50-9d88-48cc1878b39f)
 
 # Training Set Graph
-![EX 02 (7)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/bd103356-02bc-4dbc-a5ea-d98170f7cfb9)
+![EX 02 (7)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/0eeab6e6-d1ee-496b-a1a0-dbc1af087720)
 
 # Testing Set Graph
-![EX 02 (8)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/5a0e8904-bfae-4def-80a2-51d500634e1b)
+![EX 02 (8)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/2b04514f-c73d-4481-9a4d-a8282c769245)
 
 # Values of MSE,MAE and RMSE
-![EX 02 (9)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/5a885949-f602-45cb-842b-1fdb4c042c86)
+![EX 02 (9)](https://github.com/Divya110205/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119404855/2ffc5aa5-abb6-463d-92cc-6d570dce8f75)
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
